@@ -42,7 +42,6 @@ def new_meal_20_percent(waiter, total)
     oldest_customer
   end
  
- 
   def self.all
     @@all
   end
